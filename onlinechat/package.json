@@ -1,0 +1,10 @@
+{
+  "name": "onlinechat",
+  "version": "0.0.1",
+  "description": "An online chatroom implemented by node.js and socket.io",
+  "dependencies": {
+	"express": "4.10.2",
+	"socket.io": "1.2.0"
+  }
+}
+                
